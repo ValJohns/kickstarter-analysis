@@ -12,10 +12,14 @@
 
 I personally did not experience any challenge while producing this data and chart but one may have an issue with the date conversion since that portion is large portion of specific analysis.. 
 
+![Chart regarding Launch date](Theater_Outcomes_vs_Launch.png)
+
 ### *Analysis of Outcomes Based on Goals*
 -When concluding the analysis regarding outcomes based on goal the process was much different from previous analysis. First, I composed a new chart and including the virtual data need to assist with this visualization such as the number of different outcomes, the total project amount, and percentages and of course the goal based on five-thousand-dollar increments. This information was based on the subcategory of "Plays".
 
 Although I did not experience any hardship while completing the goal-based analysis it could be viewed as more tedious based of the formulas used for the ranges and the formula can be easily transposed also. 
+
+
 
 
 ### **Challenges and Difficulties Encountered**
