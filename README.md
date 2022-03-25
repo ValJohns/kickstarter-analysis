@@ -19,7 +19,7 @@ I personally did not experience any challenge while producing this data and char
 
 Although I did not experience any hardship while completing the goal-based analysis it could be viewed as more tedious based of the formulas used for the ranges and the formula can be easily transposed also. 
 
-
+![goals chart](Outcomes_vs_Goals.png)
 
 
 ### **Challenges and Difficulties Encountered**
